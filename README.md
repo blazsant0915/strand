@@ -1,0 +1,2 @@
+# strand
+Házi feladat
